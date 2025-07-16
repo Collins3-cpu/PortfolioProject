@@ -1,5 +1,6 @@
 
 **Data Analysis Portfolio**
+
 This repository contains SQL scripts for data cleaning and analysis projects, focusing on real-world datasets. Below is an overview of the included files and their purposes.
 Files
 1. Data Cleaning in SQL.sql
@@ -85,13 +86,6 @@ o	Average income by Gender and Purchased Bike status, showing males who purchase
 o	Count of bike purchases by Commute Distance, revealing that shorter commutes (0-1 Miles) correlate with higher purchase rates (200 Yes vs. 166 No).
 o	Count of bike purchases by Age Bracket, highlighting Middle Aged individuals as the primary buyers (383 Yes out of 701 total).
 d.	Dashboard: A placeholder sheet titled "Bike Sales Dashboard," intended for visualizing the analyzed data. While the sheet itself contains only the title, the pivot table insights can be used to create visualizations such as bar charts for income, stacked bars for commute distance, and pie charts for age brackets.
-Key Insights
-•	Middle Aged Dominance: Middle Aged individuals (ages 30-59) are the most likely to purchase bikes, with 383 out of 701 buying bikes, compared to Adolescents (39/110) and Older individuals (59/189).
-•	Commute Distance Impact: Individuals with shorter commutes (0-1 Miles) are more likely to purchase bikes, suggesting bikes are popular for short-distance travel.
-•	Regional Trends: North America shows the highest bike purchase rates among the regions (Europe, Pacific, North America).
-•	Income Patterns: Males who purchase bikes have a higher average income than females, indicating potential income-related purchasing behavior.
-
-
 
 
 
